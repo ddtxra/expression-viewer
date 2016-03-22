@@ -1,7 +1,7 @@
 {
   "name": "expression-viewer",
   "description": "This is a package to aid in the visualisation of various nextprot proteins based on their expression in various human tissues and on various evidences providing these expression data",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "homepage": "https://github.com/gastonche/expression-viewer",
   "author": "shizle <gastonnkh@gmail.com>",
   "repository": {
@@ -79,7 +79,8 @@
     "human",
     "biojs",
     "gaston",
-    "che"
+    "che",
+    "Vaumi Ezechiel"
   ],
   "directories": {
     "example": "examples",
