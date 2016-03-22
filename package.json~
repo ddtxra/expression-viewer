@@ -1,15 +1,15 @@
 {
   "name": "expression-viewer",
   "description": "This is a package to aid in the visualisation of various nextprot proteins based on their expression in various human tissues and on various evidences providing these expression data",
-  "version": "0.1.3",
-  "homepage": "https://github.com/gastonnche/expression-viewer",
+  "version": "0.1.7",
+  "homepage": "https://github.com/gastonche/expression-viewer",
   "author": "shizle <gastonnkh@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/gastonnche/expression-viewer.git"
+    "url": "https://github.com/gastonche/expression-viewer.git"
   },
   "bugs": {
-    "url": "https://github.com/gastonnche/expression-viewer/issues"
+    "url": "https://github.com/gastonche/expression-viewer/issues"
   },
   "license": "Apache-2.0",
   "main": "lib/index.js",
@@ -27,7 +27,8 @@
     "watch-css": "parcelify -w ./ -c build/bundle.css --loglevel verbose"
   },
   "dependencies": {
-    "d3": "^3.5.16"
+    "d3": "^3.5.16",
+    "jquery": "^2.2.2"
   },
   "devDependencies": {
     "mkdirp": "^0.5.0",
@@ -76,10 +77,16 @@
     "proteins",
     "tissues",
     "human",
-    "biojs"
+    "biojs",
+    "gaston",
+    "che"
   ],
   "directories": {
     "example": "examples",
     "test": "test"
-  }
+  },
+  "contributors": [
+    "Gaston Che <gastonnkh@gmail.com> (http://shizle-tech.blogspot.com/)",
+    "Vaumi Ezechiel <vauvaumi@gmail.com> (http://webshinobis.com)"
+  ]
 }

@@ -1,7 +1,7 @@
 # expression-viewer
 
 [![NPM version](http://img.shields.io/npm/v/expression-viewer.svg)](https://www.npmjs.org/package/expression-viewer) 
-[![Build Status](https://secure.travis-ci.org/gastonnche/expression-viewer.png?branch=master)](http://travis-ci.org/gastonnche/expression-viewer) 
+[![Build Status](https://secure.travis-ci.org/gastonnche/expression-viewer.png?branch=master)](http://travis-ci.org/gastonche/expression-viewer) 
 
 > This is a package to aid in the visualisation of various nextprot proteins based on their expression in various human tissues and on various evidences providing these expression data
 
